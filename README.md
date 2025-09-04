@@ -35,14 +35,23 @@
 プロジェクトの主要なファイル構成は以下の通りです。
 
 ├── index.html          # トップページ
+
 ├── about.html          # Aboutページ
+
 ├── business.html       # Business/Projectsページ
+
 ├── contact.html        # Contactページ
+
 ├── css/
+
 │   └── style.css       # 全ページ共通のスタイルシート
+
 ├── js/
+
 │   └── main.js         # アコーディオン機能などのJavaScript
+
 ├── image/              # サイトで使用する画像
+
 └── README.md           # このファイル
 
 
