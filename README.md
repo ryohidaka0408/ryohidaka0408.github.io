@@ -5,8 +5,7 @@
 
 ## サイトURL
 
-[https://your-domain.com](https://your-domain.com )  
-*(注: 上記はダミーのURLです。デプロイ後に実際のURLに置き換えてください。)*
+[(https://ryohidaka0408.github.io )  ](https://ryohidaka0408.github.io/)
 
 ## 🌟 サイトの主な特徴
 
